@@ -1,0 +1,6 @@
+com\oscartrujillo\crudperson\operations\Person.class
+com\oscartrujillo\crudperson\operations\Address.class
+com\oscartrujillo\crudperson\operations\ControlerCrud.class
+com\oscartrujillo\crudperson\operations\Student.class
+com\oscartrujillo\crudperson\operations\DbOperations.class
+com\oscartrujillo\crudperson\operations\Professor.class
